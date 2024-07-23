@@ -1,6 +1,7 @@
 # NPC-REVIVE
 Se trata de un NPC que cuando pulsas E te revive para fivem en ESX proximamente en QBCORE
-Contiene
+
+Contiene:
 - Si estas vivo no te revive
 - blips pequeños en el mapa
 - esta 100% en español
